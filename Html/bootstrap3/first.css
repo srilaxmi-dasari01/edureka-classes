@@ -1,0 +1,53 @@
+#first{
+
+    height: 200px;
+    background-color: rgb(7, 132, 132);
+    margin: 1%;
+
+
+}
+#second{
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    margin: 1%;
+
+
+}
+#third{
+    height: 200px;
+    background-color: pink;
+    margin: 1%;
+
+}
+#fourth{
+    height: 200px;
+    background-color: blue;
+    margin: 1%;
+
+}
+#fifth{
+    height: 200px;
+    background-color: yellow;
+    margin: 1%;
+
+}
+#sixth{
+    height: 200px;
+    background-color: rgb(241, 47, 255);
+    margin: 1%;
+
+}
+#seventh{
+    height: 200px;
+    background-color: orange;
+    margin: 1%;
+}
+.glyphicon-log-in{
+    color: white;
+    
+}
+
+
+
+
+   
